@@ -1,0 +1,7 @@
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\obj\Debug\Lab1 Update.csprojAssemblyReference.cache
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\obj\Debug\Lab1 Update.csproj.CoreCompileInputs.cache
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\bin\Debug\Lab1 Update.exe.config
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\bin\Debug\Lab1 Update.exe
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\bin\Debug\Lab1 Update.pdb
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\obj\Debug\Lab1 Update.exe
+C:\Users\tammy\source\repos\Lab1 Update\Lab1 Update\obj\Debug\Lab1 Update.pdb
